@@ -1,0 +1,489 @@
+o:#YARD::CodeObjects::ClassObject:@childrenIC:&YARD::CodeObjects::CodeObjectList[îIu:YARD::StubProxyActiveRecord::Base#logger:EFIu;!ActiveRecord::Base.inherited;	FIu;(ActiveRecord::Base.reset_subclasses;	FIu;%ActiveRecord::Base::@@subclasses;	FIu;&ActiveRecord::Base#configurations;	FIu;)ActiveRecord::Base::@@configurations;	FIu;/ActiveRecord::Base#primary_key_prefix_type;	FIu;2ActiveRecord::Base::@@primary_key_prefix_type;	FIu;)ActiveRecord::Base#table_name_prefix;	FIu;,ActiveRecord::Base::@@table_name_prefix;	FIu;)ActiveRecord::Base#table_name_suffix;	FIu;,ActiveRecord::Base::@@table_name_suffix;	FIu;-ActiveRecord::Base#pluralize_table_names;	FIu;0ActiveRecord::Base::@@pluralize_table_names;	FIu;(ActiveRecord::Base#colorize_logging;	FIu;+ActiveRecord::Base::@@colorize_logging;	FIu;(ActiveRecord::Base#default_timezone;	FIu;+ActiveRecord::Base::@@default_timezone;	FIu;%ActiveRecord::Base#schema_format;	FIu;(ActiveRecord::Base::@@schema_format;	FIu;.ActiveRecord::Base#timestamped_migrations;	FIu;1ActiveRecord::Base::@@timestamped_migrations;	FIu;ActiveRecord::Base.find;	FIu;ActiveRecord::Base.first;	FIu;ActiveRecord::Base.last;	FIu;ActiveRecord::Base.all;	FIu;#ActiveRecord::Base.find_by_sql;	FIu;ActiveRecord::Base.exists?;	FIu;ActiveRecord::Base.create;	FIu;ActiveRecord::Base.update;	FIu;ActiveRecord::Base.delete;	FIu;ActiveRecord::Base.destroy;	FIu;"ActiveRecord::Base.update_all;	FIu;#ActiveRecord::Base.destroy_all;	FIu;"ActiveRecord::Base.delete_all;	FIu;$ActiveRecord::Base.count_by_sql;	FIu;'ActiveRecord::Base.update_counters;	FIu;)ActiveRecord::Base.increment_counter;	FIu;)ActiveRecord::Base.decrement_counter;	FIu;&ActiveRecord::Base.attr_protected;	FIu;,ActiveRecord::Base.protected_attributes;	FIu;'ActiveRecord::Base.attr_accessible;	FIu;-ActiveRecord::Base.accessible_attributes;	FIu;%ActiveRecord::Base.attr_readonly;	FIu;+ActiveRecord::Base.readonly_attributes;	FIu;!ActiveRecord::Base.serialize;	FIu;-ActiveRecord::Base.serialized_attributes;	FIu;"ActiveRecord::Base.table_name;	FIu;(ActiveRecord::Base.reset_table_name;	FIu;#ActiveRecord::Base.primary_key;	FIu;)ActiveRecord::Base.reset_primary_key;	FIu;'ActiveRecord::Base.get_primary_key;	FIu;*ActiveRecord::Base.inheritance_column;	FIu;%ActiveRecord::Base.sequence_name;	FIu;+ActiveRecord::Base.reset_sequence_name;	FIu;&ActiveRecord::Base.set_table_name;	FIu;#ActiveRecord::Base.table_name=;	FIu;'ActiveRecord::Base.set_primary_key;	FIu;$ActiveRecord::Base.primary_key=;	FIu;.ActiveRecord::Base.set_inheritance_column;	FIu;+ActiveRecord::Base.inheritance_column=;	FIu;)ActiveRecord::Base.set_sequence_name;	FIu;&ActiveRecord::Base.sequence_name=;	FIu;"ActiveRecord::Base.class_name;	FIu;%ActiveRecord::Base.table_exists?;	FIu;ActiveRecord::Base.columns;	FIu;$ActiveRecord::Base.columns_hash;	FIu;$ActiveRecord::Base.column_names;	FIu;'ActiveRecord::Base.content_columns;	FIu;+ActiveRecord::Base.column_methods_hash;	FIu;0ActiveRecord::Base.reset_column_information;	FIu;^ActiveRecord::Base.reset_column_information_and_inheritable_attributes_for_all_subclasses;	FIu;?ActiveRecord::Base.self_and_descendants_from_active_record;	FIu;,ActiveRecord::Base.human_attribute_name;	FIu;"ActiveRecord::Base.human_name;	FIu;4ActiveRecord::Base.descends_from_active_record?;	FIu;4ActiveRecord::Base.finder_needs_type_condition?;	FIu;ActiveRecord::Base.inspect;	FIu;#ActiveRecord::Base.quote_value;	FIu; ActiveRecord::Base.sanitize;	FIu;!ActiveRecord::Base.benchmark;	FIu;ActiveRecord::Base.silence;	FIu;ActiveRecord::Base.===;	FIu;"ActiveRecord::Base.base_class;	FIu;&ActiveRecord::Base.abstract_class;	FIu;'ActiveRecord::Base.abstract_class=;	FIu;'ActiveRecord::Base.abstract_class?;	FIu;#ActiveRecord::Base.respond_to?;	FIu; ActiveRecord::Base.sti_name;	FIu;(ActiveRecord::Base.merge_conditions;	FIu;$ActiveRecord::Base.find_initial;	FIu;!ActiveRecord::Base.find_last;	FIu;)ActiveRecord::Base.reverse_sql_order;	FIu;"ActiveRecord::Base.find_every;	FIu;%ActiveRecord::Base.find_from_ids;	FIu; ActiveRecord::Base.find_one;	FIu;!ActiveRecord::Base.find_some;	FIu;#ActiveRecord::Base.instantiate;	FIu;-ActiveRecord::Base.type_name_with_module;	FIu;&ActiveRecord::Base.default_select;	FIu;,ActiveRecord::Base.construct_finder_sql;	FIu;&ActiveRecord::Base.merge_includes;	FIu;#ActiveRecord::Base.merge_joins;	FIu;%ActiveRecord::Base.safe_to_array;	FIu;)ActiveRecord::Base.array_of_strings?;	FIu;"ActiveRecord::Base.add_order!;	FIu;"ActiveRecord::Base.add_group!;	FIu;"ActiveRecord::Base.add_limit!;	FIu;!ActiveRecord::Base.add_lock!;	FIu;"ActiveRecord::Base.add_joins!;	FIu;'ActiveRecord::Base.add_conditions!;	FIu;&ActiveRecord::Base.type_condition;	FIu;.ActiveRecord::Base.undecorated_table_name;	FIu;&ActiveRecord::Base.method_missing;	FIu;;ActiveRecord::Base.construct_attributes_from_arguments;	FIu;=ActiveRecord::Base.expand_attribute_names_for_aggregates;	FIu;.ActiveRecord::Base.all_attributes_exists?;	FIu;+ActiveRecord::Base.attribute_condition;	FIu;,ActiveRecord::Base.expand_id_conditions;	FIu;*ActiveRecord::Base.define_attr_method;	FIu;"ActiveRecord::Base.with_scope;	FIu;,ActiveRecord::Base.with_exclusive_scope;	FIu;"ActiveRecord::Base.subclasses;	FIu;%ActiveRecord::Base.default_scope;	FIu;ActiveRecord::Base.scoped?;	FIu;ActiveRecord::Base.scope;	FIu;&ActiveRecord::Base.scoped_methods;	FIu;.ActiveRecord::Base.current_scoped_methods;	FIu;$ActiveRecord::Base.compute_type;	FIu;9ActiveRecord::Base.class_of_active_record_descendant;	FIu;>ActiveRecord::Base.class_name_of_active_record_descendant;	FIu;3ActiveRecord::Base.sanitize_sql_for_conditions;	FIu;$ActiveRecord::Base.sanitize_sql;	FIu;3ActiveRecord::Base.sanitize_sql_for_assignment;	FIu;)ActiveRecord::Base.aggregate_mapping;	FIu;=ActiveRecord::Base.expand_hash_conditions_for_aggregates;	FIu;8ActiveRecord::Base.sanitize_sql_hash_for_conditions;	FIu;)ActiveRecord::Base.sanitize_sql_hash;	FIu;8ActiveRecord::Base.sanitize_sql_hash_for_assignment;	FIu;*ActiveRecord::Base.sanitize_sql_array;	FIu;+ActiveRecord::Base.sanitize_conditions;	FIu;.ActiveRecord::Base.replace_bind_variables;	FIu;4ActiveRecord::Base.replace_named_bind_variables;	FIu;3ActiveRecord::Base.expand_range_bind_variables;	FIu;)ActiveRecord::Base.quote_bound_value;	FIu;4ActiveRecord::Base.raise_if_bind_arity_mismatch;	FIu;+ActiveRecord::Base::VALID_FIND_OPTIONS;	FIu;-ActiveRecord::Base.validate_find_options;	FIu;,ActiveRecord::Base.set_readonly_option!;	FIu;+ActiveRecord::Base.encode_quoted_value;	FIu;"ActiveRecord::Base#initialize;	FIu;ActiveRecord::Base#id;	FIu; ActiveRecord::Base#to_param;	FIu;!ActiveRecord::Base#cache_key;	FIu;+ActiveRecord::Base#id_before_type_cast;	FIu;!ActiveRecord::Base#quoted_id;	FIu;ActiveRecord::Base#id=;	FIu;#ActiveRecord::Base#new_record?;	FIu;ActiveRecord::Base#save;	FIu;ActiveRecord::Base#save!;	FIu;ActiveRecord::Base#delete;	FIu;ActiveRecord::Base#destroy;	FIu;ActiveRecord::Base#clone;	FIu;ActiveRecord::Base#becomes;	FIu;(ActiveRecord::Base#update_attribute;	FIu;)ActiveRecord::Base#update_attributes;	FIu;*ActiveRecord::Base#update_attributes!;	FIu;!ActiveRecord::Base#increment;	FIu;"ActiveRecord::Base#increment!;	FIu;!ActiveRecord::Base#decrement;	FIu;"ActiveRecord::Base#decrement!;	FIu;ActiveRecord::Base#toggle;	FIu;ActiveRecord::Base#toggle!;	FIu;ActiveRecord::Base#reload;	FIu;ActiveRecord::Base#[];	FIu;ActiveRecord::Base#[]=;	FIu;#ActiveRecord::Base#attributes=;	FIu;"ActiveRecord::Base#attributes;	FIu;3ActiveRecord::Base#attributes_before_type_cast;	FIu;-ActiveRecord::Base#attribute_for_inspect;	FIu;*ActiveRecord::Base#attribute_present?;	FIu;&ActiveRecord::Base#has_attribute?;	FIu;'ActiveRecord::Base#attribute_names;	FIu;,ActiveRecord::Base#column_for_attribute;	FIu;ActiveRecord::Base#==;	FIu;ActiveRecord::Base#eql?;	FIu;ActiveRecord::Base#hash;	FIu;ActiveRecord::Base#freeze;	FIu;ActiveRecord::Base#frozen?;	FIu;!ActiveRecord::Base#readonly?;	FIu;!ActiveRecord::Base#readonly!;	FIu;ActiveRecord::Base#inspect;	FIu;(ActiveRecord::Base#create_or_update;	FIu;ActiveRecord::Base#update;	FIu;ActiveRecord::Base#create;	FIu;*ActiveRecord::Base#ensure_proper_type;	FIu;3ActiveRecord::Base#convert_number_column_value;	FIu;HActiveRecord::Base#remove_attributes_protected_from_mass_assignment;	FIu;2ActiveRecord::Base#remove_readonly_attributes;	FIu;7ActiveRecord::Base#log_protected_attribute_removal;	FIu;7ActiveRecord::Base#attributes_protected_by_default;	FIu;.ActiveRecord::Base#attributes_with_quotes;	FIu;#ActiveRecord::Base#quote_value;	FIu;'ActiveRecord::Base#interpolate_sql;	FIu;9ActiveRecord::Base#attributes_from_column_definition;	FIu;8ActiveRecord::Base#assign_multiparameter_attributes;	FIu;/ActiveRecord::Base#instantiate_time_object;	FIu;GActiveRecord::Base#execute_callstack_for_multiparameter_attributes;	FIu;GActiveRecord::Base#extract_callstack_for_multiparameter_attributes;	FIu;1ActiveRecord::Base#type_cast_attribute_value;	FIu;/ActiveRecord::Base#find_parameter_position;	FIu;'ActiveRecord::Base#comma_pair_list;	FIu;+ActiveRecord::Base#quoted_column_names;	FIu;)ActiveRecord::Base.quoted_table_name;	FIu;%ActiveRecord::Base#quote_columns;	FIu;.ActiveRecord::Base#quoted_comma_pair_list;	FIu;(ActiveRecord::Base#object_from_yaml;	FIu;(ActiveRecord::Base#clone_attributes;	FIu;-ActiveRecord::Base#clone_attribute_value;	FIu;(ActiveRecord::Base.mysql_connection;	FIu;)ActiveRecord::Base.sqlite_connection;	FIu;,ActiveRecord::Base.parse_sqlite_config!;	FIu;*ActiveRecord::Base.sqlite3_connection;	FIu;-ActiveRecord::Base.postgresql_connection;	FIu;0ActiveRecord::Base::ConnectionSpecification;	FIu;*ActiveRecord::Base#connection_handler;	FIu;-ActiveRecord::Base::@@connection_handler;	FIu;"ActiveRecord::Base#connection;	FIu;,ActiveRecord::Base.establish_connection;	FIu;)ActiveRecord::Base.allow_concurrency;	FIu;*ActiveRecord::Base.allow_concurrency=;	FIu;,ActiveRecord::Base.verification_timeout;	FIu;-ActiveRecord::Base.verification_timeout=;	FIu;"ActiveRecord::Base.connection;	FIu;'ActiveRecord::Base.connection_pool;	FIu;+ActiveRecord::Base.retrieve_connection;	FIu;"ActiveRecord::Base.connected?;	FIu;)ActiveRecord::Base.remove_connection;	F:@ownerIu;ActiveRecord::Base;	F:@class_mixinsIC;[ ;
+Iu;ActiveRecord::Base;	F:@instance_mixinsIC;[ ;
+Iu;ActiveRecord::Base;	F:@attributesIC:SymbolHash{:
+classIC;{:abstract_classIC;{:	readIu;&ActiveRecord::Base.abstract_class;	F:
+writeIu;'ActiveRecord::Base.abstract_class=;	F:@symbolize_valueT;T:instanceIC;{ ;T;T:@aliases{Iu;#ActiveRecord::Base.table_name=;	F:set_table_nameIu;$ActiveRecord::Base.primary_key=;	F:set_primary_keyIu;+ActiveRecord::Base.inheritance_column=;	F:set_inheritance_columnIu;&ActiveRecord::Base.sequence_name=;	F:set_sequence_nameIu;$ActiveRecord::Base.sanitize_sql;	F: sanitize_sql_for_conditionsIu;)ActiveRecord::Base.sanitize_sql_hash;	F:%sanitize_sql_hash_for_conditionsIu;+ActiveRecord::Base.sanitize_conditions;	F:sanitize_sql:@groups[ :@files[[I"lib/active_record/base.rb;	Ti‡[I";lib/active_record/connection_adapters/mysql_adapter.rb;	Ti3[I"<lib/active_record/connection_adapters/sqlite_adapter.rb;	Ti
+[I"=lib/active_record/connection_adapters/sqlite3_adapter.rb;	Ti	[I"@lib/active_record/connection_adapters/postgresql_adapter.rb;	Ti[I"Olib/active_record/connection_adapters/abstract/connection_specification.rb;	Ti:@current_file_has_commentsT:
+@name:	Base:@source_type:	ruby:@visibility:public:
+@tags[ :@docstringIC:YARD::Docstring"Â4Active Record objects don't specify their attributes directly, but rather infer them from the table definition with
+which they're linked. Adding, removing, and changing attributes and their type is done directly in the database. Any change
+is instantly reflected in the Active Record objects. The mapping that binds a given Active Record class to a certain
+database table will happen automatically in most common cases, but can be overwritten for the uncommon ones.
+
+See the mapping rules in table_name and the full example in link:files/README.html for more insight.
+
+== Creation
+
+Active Records accept constructor parameters either in a hash or as a block. The hash method is especially useful when
+you're receiving the data from somewhere else, like an HTTP request. It works like this:
+
+  user = User.new(:name => "David", :occupation => "Code Artist")
+  user.name # => "David"
+
+You can also use block initialization:
+
+  user = User.new do |u|
+    u.name = "David"
+    u.occupation = "Code Artist"
+  end
+
+And of course you can just create a bare object and specify the attributes after the fact:
+
+  user = User.new
+  user.name = "David"
+  user.occupation = "Code Artist"
+
+== Conditions
+
+Conditions can either be specified as a string, array, or hash representing the WHERE-part of an SQL statement.
+The array form is to be used when the condition input is tainted and requires sanitization. The string form can
+be used for statements that don't involve tainted data. The hash form works much like the array form, except
+only equality and range is possible. Examples:
+
+  class User < ActiveRecord::Base
+    def self.authenticate_unsafely(user_name, password)
+      find(:first, :conditions => "user_name = '#{user_name}' AND password = '#{password}'")
+    end
+
+    def self.authenticate_safely(user_name, password)
+      find(:first, :conditions => [ "user_name = ? AND password = ?", user_name, password ])
+    end
+
+    def self.authenticate_safely_simply(user_name, password)
+      find(:first, :conditions => { :user_name => user_name, :password => password })
+    end
+  end
+
+The <tt>authenticate_unsafely</tt> method inserts the parameters directly into the query and is thus susceptible to SQL-injection
+attacks if the <tt>user_name</tt> and +password+ parameters come directly from an HTTP request. The <tt>authenticate_safely</tt>  and
+<tt>authenticate_safely_simply</tt> both will sanitize the <tt>user_name</tt> and +password+ before inserting them in the query,
+which will ensure that an attacker can't escape the query and fake the login (or worse).
+
+When using multiple parameters in the conditions, it can easily become hard to read exactly what the fourth or fifth
+question mark is supposed to represent. In those cases, you can resort to named bind variables instead. That's done by replacing
+the question marks with symbols and supplying a hash with values for the matching symbol keys:
+
+  Company.find(:first, :conditions => [
+    "id = :id AND name = :name AND division = :division AND created_at > :accounting_date",
+    { :id => 3, :name => "37signals", :division => "First", :accounting_date => '2005-01-01' }
+  ])
+
+Similarly, a simple hash without a statement will generate conditions based on equality with the SQL AND
+operator. For instance:
+
+  Student.find(:all, :conditions => { :first_name => "Harvey", :status => 1 })
+  Student.find(:all, :conditions => params[:student])
+
+A range may be used in the hash to use the SQL BETWEEN operator:
+
+  Student.find(:all, :conditions => { :grade => 9..12 })
+
+An array may be used in the hash to use the SQL IN operator:
+
+  Student.find(:all, :conditions => { :grade => [9,11,12] })
+
+== Overwriting default accessors
+
+All column values are automatically available through basic accessors on the Active Record object, but sometimes you
+want to specialize this behavior. This can be done by overwriting the default accessors (using the same
+name as the attribute) and calling <tt>read_attribute(attr_name)</tt> and <tt>write_attribute(attr_name, value)</tt> to actually change things.
+Example:
+
+  class Song < ActiveRecord::Base
+    # Uses an integer of seconds to hold the length of the song
+
+    def length=(minutes)
+      write_attribute(:length, minutes.to_i * 60)
+    end
+
+    def length
+      read_attribute(:length) / 60
+    end
+  end
+
+You can alternatively use <tt>self[:attribute]=(value)</tt> and <tt>self[:attribute]</tt> instead of <tt>write_attribute(:attribute, value)</tt> and
+<tt>read_attribute(:attribute)</tt> as a shorter form.
+
+== Attribute query methods
+
+In addition to the basic accessors, query methods are also automatically available on the Active Record object.
+Query methods allow you to test whether an attribute value is present.
+
+For example, an Active Record User with the <tt>name</tt> attribute has a <tt>name?</tt> method that you can call
+to determine whether the user has a name:
+
+  user = User.new(:name => "David")
+  user.name? # => true
+
+  anonymous = User.new(:name => "")
+  anonymous.name? # => false
+
+== Accessing attributes before they have been typecasted
+
+Sometimes you want to be able to read the raw attribute data without having the column-determined typecast run its course first.
+That can be done by using the <tt><attribute>_before_type_cast</tt> accessors that all attributes have. For example, if your Account model
+has a <tt>balance</tt> attribute, you can call <tt>account.balance_before_type_cast</tt> or <tt>account.id_before_type_cast</tt>.
+
+This is especially useful in validation situations where the user might supply a string for an integer field and you want to display
+the original string back in an error message. Accessing the attribute normally would typecast the string to 0, which isn't what you
+want.
+
+== Dynamic attribute-based finders
+
+Dynamic attribute-based finders are a cleaner way of getting (and/or creating) objects by simple queries without turning to SQL. They work by
+appending the name of an attribute to <tt>find_by_</tt>, <tt>find_last_by_</tt>, or <tt>find_all_by_</tt>, so you get finders like <tt>Person.find_by_user_name</tt>,
+<tt>Person.find_all_by_last_name</tt>, and <tt>Payment.find_by_transaction_id</tt>. So instead of writing
+<tt>Person.find(:first, :conditions => ["user_name = ?", user_name])</tt>, you just do <tt>Person.find_by_user_name(user_name)</tt>.
+And instead of writing <tt>Person.find(:all, :conditions => ["last_name = ?", last_name])</tt>, you just do <tt>Person.find_all_by_last_name(last_name)</tt>.
+
+It's also possible to use multiple attributes in the same find by separating them with "_and_", so you get finders like
+<tt>Person.find_by_user_name_and_password</tt> or even <tt>Payment.find_by_purchaser_and_state_and_country</tt>. So instead of writing
+<tt>Person.find(:first, :conditions => ["user_name = ? AND password = ?", user_name, password])</tt>, you just do
+<tt>Person.find_by_user_name_and_password(user_name, password)</tt>.
+
+It's even possible to use all the additional parameters to find. For example, the full interface for <tt>Payment.find_all_by_amount</tt>
+is actually <tt>Payment.find_all_by_amount(amount, options)</tt>. And the full interface to <tt>Person.find_by_user_name</tt> is
+actually <tt>Person.find_by_user_name(user_name, options)</tt>. So you could call <tt>Payment.find_all_by_amount(50, :order => "created_on")</tt>.
+Also you may call <tt>Payment.find_last_by_amount(amount, options)</tt> returning the last record matching that amount and options.
+
+The same dynamic finder style can be used to create the object if it doesn't already exist. This dynamic finder is called with
+<tt>find_or_create_by_</tt> and will return the object if it already exists and otherwise creates it, then returns it. Protected attributes won't be set unless they are given in a block. For example:
+
+  # No 'Summer' tag exists
+  Tag.find_or_create_by_name("Summer") # equal to Tag.create(:name => "Summer")
+
+  # Now the 'Summer' tag does exist
+  Tag.find_or_create_by_name("Summer") # equal to Tag.find_by_name("Summer")
+
+  # Now 'Bob' exist and is an 'admin'
+  User.find_or_create_by_name('Bob', :age => 40) { |u| u.admin = true }
+
+Use the <tt>find_or_initialize_by_</tt> finder if you want to return a new record without saving it first. Protected attributes won't be set unless they are given in a block. For example:
+
+  # No 'Winter' tag exists
+  winter = Tag.find_or_initialize_by_name("Winter")
+  winter.new_record? # true
+
+To find by a subset of the attributes to be used for instantiating a new object, pass a hash instead of
+a list of parameters. For example:
+
+  Tag.find_or_create_by_name(:name => "rails", :creator => current_user)
+
+That will either find an existing tag named "rails", or create a new one while setting the user that created it.
+
+== Saving arrays, hashes, and other non-mappable objects in text columns
+
+Active Record can serialize any object in text columns using YAML. To do so, you must specify this with a call to the class method +serialize+.
+This makes it possible to store arrays, hashes, and other non-mappable objects without doing any additional work. Example:
+
+  class User < ActiveRecord::Base
+    serialize :preferences
+  end
+
+  user = User.create(:preferences => { "background" => "black", "display" => large })
+  User.find(user.id).preferences # => { "background" => "black", "display" => large }
+
+You can also specify a class option as the second parameter that'll raise an exception if a serialized object is retrieved as a
+descendant of a class not in the hierarchy. Example:
+
+  class User < ActiveRecord::Base
+    serialize :preferences, Hash
+  end
+
+  user = User.create(:preferences => %w( one two three ))
+  User.find(user.id).preferences    # raises SerializationTypeMismatch
+
+== Single table inheritance
+
+Active Record allows inheritance by storing the name of the class in a column that by default is named "type" (can be changed
+by overwriting <tt>Base.inheritance_column</tt>). This means that an inheritance looking like this:
+
+  class Company < ActiveRecord::Base; end
+  class Firm < Company; end
+  class Client < Company; end
+  class PriorityClient < Client; end
+
+When you do <tt>Firm.create(:name => "37signals")</tt>, this record will be saved in the companies table with type = "Firm". You can then
+fetch this row again using <tt>Company.find(:first, "name = '37signals'")</tt> and it will return a Firm object.
+
+If you don't have a type column defined in your table, single-table inheritance won't be triggered. In that case, it'll work just
+like normal subclasses with no special magic for differentiating between them or reloading the right type with find.
+
+Note, all the attributes for all the cases are kept in the same table. Read more:
+http://www.martinfowler.com/eaaCatalog/singleTableInheritance.html
+
+== Connection to multiple databases in different models
+
+Connections are usually created through ActiveRecord::Base.establish_connection and retrieved by ActiveRecord::Base.connection.
+All classes inheriting from ActiveRecord::Base will use this connection. But you can also set a class-specific connection.
+For example, if Course is an ActiveRecord::Base, but resides in a different database, you can just say <tt>Course.establish_connection</tt>
+and Course and all of its subclasses will use this connection instead.
+
+This feature is implemented by keeping a connection pool in ActiveRecord::Base that is a Hash indexed by the class. If a connection is
+requested, the retrieve_connection method will go up the class-hierarchy until a connection is found in the connection pool.
+
+== Exceptions
+
+* ActiveRecordError - Generic error class and superclass of all other errors raised by Active Record.
+* AdapterNotSpecified - The configuration hash used in <tt>establish_connection</tt> didn't include an
+  <tt>:adapter</tt> key.
+* AdapterNotFound - The <tt>:adapter</tt> key used in <tt>establish_connection</tt> specified a non-existent adapter
+  (or a bad spelling of an existing one).
+* AssociationTypeMismatch - The object assigned to the association wasn't of the type specified in the association definition.
+* SerializationTypeMismatch - The serialized object wasn't of the class specified as the second parameter.
+* ConnectionNotEstablished+ - No connection has been established. Use <tt>establish_connection</tt> before querying.
+* RecordNotFound - No record responded to the +find+ method. Either the row with the given ID doesn't exist
+  or the row didn't meet the additional restrictions. Some +find+ calls do not raise this exception to signal
+  nothing was found, please check its documentation for further details.
+* StatementInvalid - The database server rejected the SQL statement. The precise error is added in the message.
+* MultiparameterAssignmentErrors - Collection of errors that occurred during a mass assignment using the
+  <tt>attributes=</tt> method. The +errors+ property of this exception contains an array of AttributeAssignmentError
+  objects that should be inspected to determine which attributes triggered the errors.
+* AttributeAssignmentError - An error occurred while doing a mass assignment through the <tt>attributes=</tt> method.
+  You can inspect the +attribute+ property of the exception object to determine which attribute triggered the error.
+
+*Note*: The attributes listed are class-level attributes (accessible from both the class and instance level).
+So it's possible to assign a logger to the class through <tt>Base.logger=</tt> which will then be used by all
+instances in the current object space.;	F:@objectIu;ActiveRecord::Base;	F:@summary0:@hash_flagF:@ref_tags[ ;&[ :	@allI"Â4Active Record objects don't specify their attributes directly, but rather infer them from the table definition with
+which they're linked. Adding, removing, and changing attributes and their type is done directly in the database. Any change
+is instantly reflected in the Active Record objects. The mapping that binds a given Active Record class to a certain
+database table will happen automatically in most common cases, but can be overwritten for the uncommon ones.
+
+See the mapping rules in table_name and the full example in link:files/README.html for more insight.
+
+== Creation
+
+Active Records accept constructor parameters either in a hash or as a block. The hash method is especially useful when
+you're receiving the data from somewhere else, like an HTTP request. It works like this:
+
+  user = User.new(:name => "David", :occupation => "Code Artist")
+  user.name # => "David"
+
+You can also use block initialization:
+
+  user = User.new do |u|
+    u.name = "David"
+    u.occupation = "Code Artist"
+  end
+
+And of course you can just create a bare object and specify the attributes after the fact:
+
+  user = User.new
+  user.name = "David"
+  user.occupation = "Code Artist"
+
+== Conditions
+
+Conditions can either be specified as a string, array, or hash representing the WHERE-part of an SQL statement.
+The array form is to be used when the condition input is tainted and requires sanitization. The string form can
+be used for statements that don't involve tainted data. The hash form works much like the array form, except
+only equality and range is possible. Examples:
+
+  class User < ActiveRecord::Base
+    def self.authenticate_unsafely(user_name, password)
+      find(:first, :conditions => "user_name = '#{user_name}' AND password = '#{password}'")
+    end
+
+    def self.authenticate_safely(user_name, password)
+      find(:first, :conditions => [ "user_name = ? AND password = ?", user_name, password ])
+    end
+
+    def self.authenticate_safely_simply(user_name, password)
+      find(:first, :conditions => { :user_name => user_name, :password => password })
+    end
+  end
+
+The <tt>authenticate_unsafely</tt> method inserts the parameters directly into the query and is thus susceptible to SQL-injection
+attacks if the <tt>user_name</tt> and +password+ parameters come directly from an HTTP request. The <tt>authenticate_safely</tt>  and
+<tt>authenticate_safely_simply</tt> both will sanitize the <tt>user_name</tt> and +password+ before inserting them in the query,
+which will ensure that an attacker can't escape the query and fake the login (or worse).
+
+When using multiple parameters in the conditions, it can easily become hard to read exactly what the fourth or fifth
+question mark is supposed to represent. In those cases, you can resort to named bind variables instead. That's done by replacing
+the question marks with symbols and supplying a hash with values for the matching symbol keys:
+
+  Company.find(:first, :conditions => [
+    "id = :id AND name = :name AND division = :division AND created_at > :accounting_date",
+    { :id => 3, :name => "37signals", :division => "First", :accounting_date => '2005-01-01' }
+  ])
+
+Similarly, a simple hash without a statement will generate conditions based on equality with the SQL AND
+operator. For instance:
+
+  Student.find(:all, :conditions => { :first_name => "Harvey", :status => 1 })
+  Student.find(:all, :conditions => params[:student])
+
+A range may be used in the hash to use the SQL BETWEEN operator:
+
+  Student.find(:all, :conditions => { :grade => 9..12 })
+
+An array may be used in the hash to use the SQL IN operator:
+
+  Student.find(:all, :conditions => { :grade => [9,11,12] })
+
+== Overwriting default accessors
+
+All column values are automatically available through basic accessors on the Active Record object, but sometimes you
+want to specialize this behavior. This can be done by overwriting the default accessors (using the same
+name as the attribute) and calling <tt>read_attribute(attr_name)</tt> and <tt>write_attribute(attr_name, value)</tt> to actually change things.
+Example:
+
+  class Song < ActiveRecord::Base
+    # Uses an integer of seconds to hold the length of the song
+
+    def length=(minutes)
+      write_attribute(:length, minutes.to_i * 60)
+    end
+
+    def length
+      read_attribute(:length) / 60
+    end
+  end
+
+You can alternatively use <tt>self[:attribute]=(value)</tt> and <tt>self[:attribute]</tt> instead of <tt>write_attribute(:attribute, value)</tt> and
+<tt>read_attribute(:attribute)</tt> as a shorter form.
+
+== Attribute query methods
+
+In addition to the basic accessors, query methods are also automatically available on the Active Record object.
+Query methods allow you to test whether an attribute value is present.
+
+For example, an Active Record User with the <tt>name</tt> attribute has a <tt>name?</tt> method that you can call
+to determine whether the user has a name:
+
+  user = User.new(:name => "David")
+  user.name? # => true
+
+  anonymous = User.new(:name => "")
+  anonymous.name? # => false
+
+== Accessing attributes before they have been typecasted
+
+Sometimes you want to be able to read the raw attribute data without having the column-determined typecast run its course first.
+That can be done by using the <tt><attribute>_before_type_cast</tt> accessors that all attributes have. For example, if your Account model
+has a <tt>balance</tt> attribute, you can call <tt>account.balance_before_type_cast</tt> or <tt>account.id_before_type_cast</tt>.
+
+This is especially useful in validation situations where the user might supply a string for an integer field and you want to display
+the original string back in an error message. Accessing the attribute normally would typecast the string to 0, which isn't what you
+want.
+
+== Dynamic attribute-based finders
+
+Dynamic attribute-based finders are a cleaner way of getting (and/or creating) objects by simple queries without turning to SQL. They work by
+appending the name of an attribute to <tt>find_by_</tt>, <tt>find_last_by_</tt>, or <tt>find_all_by_</tt>, so you get finders like <tt>Person.find_by_user_name</tt>,
+<tt>Person.find_all_by_last_name</tt>, and <tt>Payment.find_by_transaction_id</tt>. So instead of writing
+<tt>Person.find(:first, :conditions => ["user_name = ?", user_name])</tt>, you just do <tt>Person.find_by_user_name(user_name)</tt>.
+And instead of writing <tt>Person.find(:all, :conditions => ["last_name = ?", last_name])</tt>, you just do <tt>Person.find_all_by_last_name(last_name)</tt>.
+
+It's also possible to use multiple attributes in the same find by separating them with "_and_", so you get finders like
+<tt>Person.find_by_user_name_and_password</tt> or even <tt>Payment.find_by_purchaser_and_state_and_country</tt>. So instead of writing
+<tt>Person.find(:first, :conditions => ["user_name = ? AND password = ?", user_name, password])</tt>, you just do
+<tt>Person.find_by_user_name_and_password(user_name, password)</tt>.
+
+It's even possible to use all the additional parameters to find. For example, the full interface for <tt>Payment.find_all_by_amount</tt>
+is actually <tt>Payment.find_all_by_amount(amount, options)</tt>. And the full interface to <tt>Person.find_by_user_name</tt> is
+actually <tt>Person.find_by_user_name(user_name, options)</tt>. So you could call <tt>Payment.find_all_by_amount(50, :order => "created_on")</tt>.
+Also you may call <tt>Payment.find_last_by_amount(amount, options)</tt> returning the last record matching that amount and options.
+
+The same dynamic finder style can be used to create the object if it doesn't already exist. This dynamic finder is called with
+<tt>find_or_create_by_</tt> and will return the object if it already exists and otherwise creates it, then returns it. Protected attributes won't be set unless they are given in a block. For example:
+
+  # No 'Summer' tag exists
+  Tag.find_or_create_by_name("Summer") # equal to Tag.create(:name => "Summer")
+
+  # Now the 'Summer' tag does exist
+  Tag.find_or_create_by_name("Summer") # equal to Tag.find_by_name("Summer")
+
+  # Now 'Bob' exist and is an 'admin'
+  User.find_or_create_by_name('Bob', :age => 40) { |u| u.admin = true }
+
+Use the <tt>find_or_initialize_by_</tt> finder if you want to return a new record without saving it first. Protected attributes won't be set unless they are given in a block. For example:
+
+  # No 'Winter' tag exists
+  winter = Tag.find_or_initialize_by_name("Winter")
+  winter.new_record? # true
+
+To find by a subset of the attributes to be used for instantiating a new object, pass a hash instead of
+a list of parameters. For example:
+
+  Tag.find_or_create_by_name(:name => "rails", :creator => current_user)
+
+That will either find an existing tag named "rails", or create a new one while setting the user that created it.
+
+== Saving arrays, hashes, and other non-mappable objects in text columns
+
+Active Record can serialize any object in text columns using YAML. To do so, you must specify this with a call to the class method +serialize+.
+This makes it possible to store arrays, hashes, and other non-mappable objects without doing any additional work. Example:
+
+  class User < ActiveRecord::Base
+    serialize :preferences
+  end
+
+  user = User.create(:preferences => { "background" => "black", "display" => large })
+  User.find(user.id).preferences # => { "background" => "black", "display" => large }
+
+You can also specify a class option as the second parameter that'll raise an exception if a serialized object is retrieved as a
+descendant of a class not in the hierarchy. Example:
+
+  class User < ActiveRecord::Base
+    serialize :preferences, Hash
+  end
+
+  user = User.create(:preferences => %w( one two three ))
+  User.find(user.id).preferences    # raises SerializationTypeMismatch
+
+== Single table inheritance
+
+Active Record allows inheritance by storing the name of the class in a column that by default is named "type" (can be changed
+by overwriting <tt>Base.inheritance_column</tt>). This means that an inheritance looking like this:
+
+  class Company < ActiveRecord::Base; end
+  class Firm < Company; end
+  class Client < Company; end
+  class PriorityClient < Client; end
+
+When you do <tt>Firm.create(:name => "37signals")</tt>, this record will be saved in the companies table with type = "Firm". You can then
+fetch this row again using <tt>Company.find(:first, "name = '37signals'")</tt> and it will return a Firm object.
+
+If you don't have a type column defined in your table, single-table inheritance won't be triggered. In that case, it'll work just
+like normal subclasses with no special magic for differentiating between them or reloading the right type with find.
+
+Note, all the attributes for all the cases are kept in the same table. Read more:
+http://www.martinfowler.com/eaaCatalog/singleTableInheritance.html
+
+== Connection to multiple databases in different models
+
+Connections are usually created through ActiveRecord::Base.establish_connection and retrieved by ActiveRecord::Base.connection.
+All classes inheriting from ActiveRecord::Base will use this connection. But you can also set a class-specific connection.
+For example, if Course is an ActiveRecord::Base, but resides in a different database, you can just say <tt>Course.establish_connection</tt>
+and Course and all of its subclasses will use this connection instead.
+
+This feature is implemented by keeping a connection pool in ActiveRecord::Base that is a Hash indexed by the class. If a connection is
+requested, the retrieve_connection method will go up the class-hierarchy until a connection is found in the connection pool.
+
+== Exceptions
+
+* ActiveRecordError - Generic error class and superclass of all other errors raised by Active Record.
+* AdapterNotSpecified - The configuration hash used in <tt>establish_connection</tt> didn't include an
+  <tt>:adapter</tt> key.
+* AdapterNotFound - The <tt>:adapter</tt> key used in <tt>establish_connection</tt> specified a non-existent adapter
+  (or a bad spelling of an existing one).
+* AssociationTypeMismatch - The object assigned to the association wasn't of the type specified in the association definition.
+* SerializationTypeMismatch - The serialized object wasn't of the class specified as the second parameter.
+* ConnectionNotEstablished+ - No connection has been established. Use <tt>establish_connection</tt> before querying.
+* RecordNotFound - No record responded to the +find+ method. Either the row with the given ID doesn't exist
+  or the row didn't meet the additional restrictions. Some +find+ calls do not raise this exception to signal
+  nothing was found, please check its documentation for further details.
+* StatementInvalid - The database server rejected the SQL statement. The precise error is added in the message.
+* MultiparameterAssignmentErrors - Collection of errors that occurred during a mass assignment using the
+  <tt>attributes=</tt> method. The +errors+ property of this exception contains an array of AttributeAssignmentError
+  objects that should be inspected to determine which attributes triggered the errors.
+* AttributeAssignmentError - An error occurred while doing a mass assignment through the <tt>attributes=</tt> method.
+  You can inspect the +attribute+ property of the exception object to determine which attribute triggered the error.
+
+*Note*: The attributes listed are class-level attributes (accessible from both the class and instance level).
+So it's possible to assign a logger to the class through <tt>Base.logger=</tt> which will then be used by all
+instances in the current object space.;	F:@line_rangeo:
+Range:	exclF:
+begini—:endi†:@namespaceIu;ActiveRecord;	F:
+@pathI"ActiveRecord::Base;	F:@superclassIu;Object;	F:@dynamicT:@docstring_extra0
